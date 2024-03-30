@@ -1,0 +1,20 @@
+repo_name: techsmith23/StackAppRepo
+report_id: 97a01b37eb8ac84735f2f5ba88169000
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-30T15:04:07+00:00'
+requested_by: techsmith23
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/techsmith23/StackAppRepo
+  detection_source: Repo Metadata
